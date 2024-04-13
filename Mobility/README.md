@@ -1,0 +1,5 @@
+# Mobility
+
+## What you'll learn
+
+How can robots use their motors and sensors to move around in an unstructured environment?  You will understand how to design robot bodies and behaviors that recruit limbs and more general appendages to apply physical forces that confer reliable mobility in a complex and dynamic world.  We develop an approach to composing simple dynamical abstractions that partially automate the generation of complicated sensorimotor programs.  Specific topics that will be covered include: mobility in animals and robots, kinematics and dynamics of legged machines, and design of dynamical behavior via energy landscapes.
