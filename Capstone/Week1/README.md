@@ -21,3 +21,5 @@ Welcome to Robotics Capstone! This week you will choose between two tracks avail
 - [Reading - B1.1 Purchasing the Robot Kit](https://www.coursera.org/learn/robotics-capstone/supplement/bobqE/b1-1-purchasing-the-robot-kit)
 
 - [Reading - B1.2 The Rover Simulator](https://www.coursera.org/learn/robotics-capstone/supplement/bz5fC/b1-2-the-rover-simulator)
+
+- [Reading - B1.3 Dijkstra's Algorithm in Python](./Readings/CapstoneGraphSearch.pdf)
